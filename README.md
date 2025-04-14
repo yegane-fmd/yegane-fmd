@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Yeganeh 👩🏻‍💻</h1>
 
-<p align="center">
-  <img src="A_banner_in_digital_illustration_and_GIF_animation.png" width="100%" alt="Yeganeh banner" />
-</p>
 
 ---
 
