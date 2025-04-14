@@ -8,8 +8,7 @@
 ### 💫 A Little Sparkle About Me
 
 - 🎂 Born on a cozy autumn day — **October 7, 2001**
-- ✨ Currently **23 years old**
-- 💻 Fueled by dreams, coffee, and clean code 💜
+- 💻 Fueled by dreams, coffee, and clean code 
 
 🎓 I'm a **third-year Computer Engineering student** with a deep passion for **growth**, **learning**, and **building my dream career** in tech.  
 💡 I enjoy creating clean, elegant, and user-friendly interfaces — and always coding my dreams into reality.
