@@ -27,5 +27,5 @@
 > _“Code like a lady. Dream like a queen. Build like a warrior.”_ 👑  
 
 <p align="center">
-  💖 Made with passion vibes 💻 ☕
+   Made with passion vibes 💻 ☕
 </p>
