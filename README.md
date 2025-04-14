@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yeganeh 👩🏻‍💻</h1>
+<h1 align="center">Hi there, I'm Yegane 👩🏻‍💻</h1>
 <p align="center">
   <img src="https://github.com/yegane-fmd/yegane-fmd/blob/main/yegane%20mohammadian.gif?raw=true" alt="animated banner" />
 </p>
