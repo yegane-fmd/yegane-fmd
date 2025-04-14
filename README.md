@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yeganeh 👩🏻‍💻</h1>
 
-<!--
-**yegane-fmd/yegane-fmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="A_banner_in_digital_illustration_and_GIF_animation.png" width="100%" alt="Yeganeh banner" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a **third-year Computer Engineering student** with a deep passion for **growth**, **learning**, and **building my dream career** in tech.  
+💡 I enjoy creating clean, elegant, and user-friendly interfaces — and always coding my dreams into reality.
+
+### 🛠️ Languages & Tools:
+💻 HTML | CSS | JavaScript | React | Python | C++
+
+### 🌱 Currently Working On:
+- Building cool React apps 💫  
+- Exploring full-stack development  
+- Learning and improving every single day 💖
+
+---
+
+> _“Code like a lady. Dream like a queen. Build like a warrior.”_ 👑  
+
+<p align="center">
+  💖 Made with passion and pink vibes 💻 ☕
+</p>
