@@ -5,7 +5,7 @@
 
 
 ---
-### 💫 A Little Sparkle About Me
+### ✨ A Little Sparkle About Me
 
 - 🎂 Born on a cozy autumn day — **October 7, 2001**
 - 💻 Fueled by dreams, coffee, and clean code 
