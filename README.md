@@ -19,7 +19,7 @@
 ### 🌱 Currently Working On:
 - Building cool React apps 💫  
 - Exploring full-stack development  
-- Learning and improving every single day 💖
+- Learning and improving every single day 😎
 
 ---
 
