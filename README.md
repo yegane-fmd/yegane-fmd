@@ -22,6 +22,7 @@
 - Learning and improving every single day 😎
 
   🔗 [Live Demo] https://daily-planner-gray.vercel.app/
+  
   🔗 [Live Demo] https://todo-app-lime-nine-11.vercel.app/
 
 ---
