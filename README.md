@@ -21,6 +21,8 @@
 - Exploring full-stack development  
 - Learning and improving every single day 😎
 
+  🔗 [Live Demo] https://daily-planner-gray.vercel.app/
+
 ---
 
 > _“Code like a lady. Dream like a queen. Build like a warrior.”_ 👑  
